@@ -1,0 +1,11 @@
+{
+    "bert_sample_classification": {
+        "input": "This movie was absolute brilliant! The acting was superb and the plot kept me on the edge of my seat.",
+        "true_label": 1,
+        "predicted_label": 1
+    },
+    "gpt_sample_generation": {
+        "prompt": "This movie was",
+        "generated_output": "This movie was a great movie, and I think it is a great movie. I think it is a great movie. I think it is a great"
+    }
+}
