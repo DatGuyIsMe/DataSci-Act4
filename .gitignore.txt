@@ -1,0 +1,15 @@
+# Python caches
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Virtual Environments
+venv/
+env/
+
+# Large ML Files and Data
+*.csv
+*.pt
+*.safetensors
+*.bin
+models/
